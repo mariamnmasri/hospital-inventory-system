@@ -4,10 +4,8 @@ A full-stack web app for tracking a hospital's medical supplies: what's on hand,
 
 Built for **CSE 412: Database Management** at Arizona State University.
 
-<!-- Add screenshots here, e.g.:
-![Dashboard](screenshots/dashboard.png)
-![Inventory](screenshots/inventory.png)
--->
+## Demo Video:
+https://www.youtube.com/watch?v=RRPWCC7hH_s 
 
 ## Features
 
