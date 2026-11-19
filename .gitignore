@@ -1,0 +1,15 @@
+# Dependencies
+node_modules/
+
+# Secrets — never commit real credentials
+.env
+.env.*
+!.env.example
+
+# Build output
+frontend/build/
+
+# OS / editor files
+.DS_Store
+__MACOSX/
+*.log
